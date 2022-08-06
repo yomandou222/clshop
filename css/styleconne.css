@@ -1,0 +1,46 @@
+#insertion {
+	width: 100%;
+	margin-top: -10px;
+	background: blue;
+	padding: 10px;
+	margin-left: -10px;
+	height: 1100px;
+}
+form {
+	max-width: 500px;
+	margin: auto;
+}
+#insertion h2 {
+	color: white;
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 1.5em;
+	padding-top: 30px;
+}
+#insertion label {
+	font-size: 20px;
+	padding: 10px 20px;
+	color: #fff;
+}
+#insertion input {
+	margin: 0 20px;
+	width: 450px;
+	padding: 5px 0;
+}
+#insertion #bouton input {
+	margin: 0 20px;
+	width: 10px;
+	padding: 5px 0;
+}
+#insertion button {
+	background-color: red;
+	color: #fff;
+	margin-bottom: 15px;
+	margin-left: 20px;
+}
+#insertion .lab {
+	color: white;
+	text-align: center;
+	font-size: 20px;
+	padding-bottom: 35px;
+}
